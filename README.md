@@ -1,4 +1,4 @@
-# Quote Poster Repository
+# Quote Poster Repository (fall 2021)
 
 This quote poster was created as an assignment for an Integrating Writing and Design course. The background image is from Unsplash and free to use without attribution. The design is based on the Paula Scher quote, “It’s through mistakes that you actually can grow. You have to get bad in order to get good.” The following commentary is pulled from this poster's design gloss written for the course's final portfolio submission:
 
