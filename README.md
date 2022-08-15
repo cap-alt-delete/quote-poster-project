@@ -11,3 +11,5 @@ In revision, I experimented with a handful of new photos to be the poster base, 
 I also played with the size of each letter in “grow” to make the word grow incrementally, as well as increase in weight. For “mistake”, I didn’t want to misspell it and create a misquote, so I opted for a loud typographic mistake of mismatching fonts. Once I did that, I saw the opportunity to carry this mistake typeface across to the word “bad” and the quotation marks, to create subtle repetition. I felt that it helped make clear I was being intentional about my typographic joke, rather than it being an actual mistake. I doubled down on this by pulling a cool blue tone from the cement steps to create a slightly off coloring that highlighted these inconsistencies throughout the quote.
 
 Scaling back on the imagery allowed me to amp up the typography of this poster, which ultimately aligned more closely with the intentions of the assignment."
+
+This project was nominated for and featured in Pitt's 2022 [Digital Media Showcase](https://dmap.pitt.edu/showcase).
